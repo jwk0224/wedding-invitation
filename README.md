@@ -10,7 +10,7 @@ A mobile wedding invitation card
 - Photo gallery
 - Location info
 - Bank account info (Optional)
-- Celebration comment
+- Celebration comment (Optional)
 
 ## Technologies Used
 
