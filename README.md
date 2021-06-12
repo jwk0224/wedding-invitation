@@ -1,6 +1,6 @@
 # wedding-invitation
 
-A mobile wedding invitation card
+A mobile wedding invitation card for myself
 
 ## Features
 
