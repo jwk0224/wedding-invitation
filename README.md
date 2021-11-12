@@ -5,7 +5,7 @@ A mobile wedding invitation card for myself
 ## Features
 
 - Welcome image
-- Geeting message
+- Greeting message
 - Contact info
 - Photo gallery
 - Location info
